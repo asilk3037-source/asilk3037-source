@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20Aline%20Martins!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Analista%20de%20Suporte%20II%20%7C%20Dev%20em%20formação&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=180&section=header&text=Ol%C3%A1%2C+eu+sou+Aline+Martins%21&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Analista+de+Suporte+II+%7C+Dev+em+forma%C3%A7%C3%A3o&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Trabalho como **Analista de Suporte II** na **Netview Soluções Digitais**, atuando na implementação e suporte do sistema jurídico MAX para clientes como **Correios**, **Copasa**, **Cemig**, **CREA**  e **Casa da Moeda do Brasil**.
+Trabalho como **Analista de Suporte II** na **Netview Soluções Digitais**, atuando na implementação e suporte do sistema jurídico MAX para clientes como **Correios** e **Casa da Moeda do Brasil**.
 
 Curso **Gestão da Tecnologia da Informação** na FUMEC e gosto muito de cibersegurança, automação de processos e aprender coisas novas. Atualmente estou desenvolvendo projetos com **React, TypeScript e PostgreSQL** e cada vez mais animada com programação.
 
@@ -29,6 +29,8 @@ Curso **Gestão da Tecnologia da Informação** na FUMEC e gosto muito de cibers
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,11 +49,18 @@ Curso **Gestão da Tecnologia da Informação** na FUMEC e gosto muito de cibers
 
 <div align="center">
 
-[![Clínica Escola FUMEC](https://github-readme-stats.vercel.app/api/pin/?username=asilk3037-source&repo=trabalho_fumec_clinica&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa)](https://github.com/asilk3037-source/trabalho_fumec_clinica)
-[![E-commerce Varejo](https://github-readme-stats.vercel.app/api/pin/?username=asilk3037-source&repo=Ecommerce-varejo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa)](https://github.com/asilk3037-source/Ecommerce-varejo)
-
-[![Sk-Services](https://github-readme-stats.vercel.app/api/pin/?username=asilk3037-source&repo=Sk-Services&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa)](https://github.com/asilk3037-source/Sk-Services)
-[![Nosso Lar](https://github-readme-stats.vercel.app/api/pin/?username=asilk3037-source&repo=nosso-lar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa)](https://github.com/asilk3037-source/nosso-lar)
+<a href="https://github.com/asilk3037-source/trabalho_fumec_clinica">
+  <img src="https://img.shields.io/badge/Cl%C3%ADnica%20Escola%20FUMEC-f472b6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/asilk3037-source/Ecommerce-varejo">
+  <img src="https://img.shields.io/badge/E--commerce%20Varejo-a78bfa?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/asilk3037-source/Sk-Services">
+  <img src="https://img.shields.io/badge/Sk--Services-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/asilk3037-source/nosso-lar">
+  <img src="https://img.shields.io/badge/Nosso%20Lar-3fb950?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -72,16 +81,19 @@ Curso **Gestão da Tecnologia da Informação** na FUMEC e gosto muito de cibers
 
 ## Experiência Profissional
 
-<pre>
-  Analista de Suporte II          Netview Soluções Digitais     Jan 2026 até hoje
-  Implementação e suporte do sistema MAX para Correios e Casa da Moeda do Brasil
+<div align="center">
 
-  Coordenadora de Suporte         BrunSker Tecnologia           Anterior
-  Analista de Requisitos II, liderança de equipe e documentação de requisitos
+| | Cargo | Empresa | Período |
+|---|---|---|---|
+| <img src="https://img.shields.io/badge/-pink?style=flat-square&color=f472b6" /> | **Analista de Suporte II** | Netview Soluções Digitais | Jan 2026 — Presente |
+| <img src="https://img.shields.io/badge/-purple?style=flat-square&color=a78bfa" /> | **Coordenadora de Suporte / Analista de Requisitos II** | BrunSker Tecnologia | Anterior |
+| <img src="https://img.shields.io/badge/-blue?style=flat-square&color=58a6ff" /> | **Assistente de Relacionamento Digital** | Uber / AeC Contact Center | Anterior |
 
-  Assistente de Relacionamento    Uber                          Anterior
-  Suporte digital e atendimento em ambiente de alta demanda
-</pre>
+</div>
+
+Na Netview atuo diretamente com clientes institucionais de grande porte, gerenciando implementações, retornos técnicos e documentação do sistema MAX.
+Na BrunSker liderei equipe de suporte e fiz levantamento de requisitos de sistemas.
+Na AeC e Uber trabalhei com suporte digital em ambiente de alta demanda.
 
 ---
 
@@ -125,5 +137,5 @@ Gosto de tecnologia que resolve problemas de verdade.
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=100&section=footer" />
 </div>
