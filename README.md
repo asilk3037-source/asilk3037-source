@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Trabalho como **Analista de Suporte II** na **Netview Soluções Digitais**, atuando na implementação e suporte do sistema jurídico MAX para clientes como **Correios** e **Casa da Moeda do Brasil**.
+Trabalho como **Analista de Suporte II** na **Netview Soluções Digitais**, atuando na implementação e suporte do sistema jurídico MAX para clientes como **Correios**, **Copasa**, **Cemig**, **CREA**  e **Casa da Moeda do Brasil**.
 
 Curso **Gestão da Tecnologia da Informação** na FUMEC e gosto muito de cibersegurança, automação de processos e aprender coisas novas. Atualmente estou desenvolvendo projetos com **React, TypeScript e PostgreSQL** e cada vez mais animada com programação.
 
@@ -79,7 +79,7 @@ Curso **Gestão da Tecnologia da Informação** na FUMEC e gosto muito de cibers
   Coordenadora de Suporte         BrunSker Tecnologia           Anterior
   Analista de Requisitos II, liderança de equipe e documentação de requisitos
 
-  Assistente de Relacionamento    Uber / AeC Contact Center     Anterior
+  Assistente de Relacionamento    Uber                          Anterior
   Suporte digital e atendimento em ambiente de alta demanda
 </pre>
 
